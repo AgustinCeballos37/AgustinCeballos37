@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology and science 
 - 🌱 I’m currently learning software developer, i have practice/proyects in javascript(frameworks), actually i was learn Java to applicate kotlin
 - 💞️ I’m looking to collaborate on some proyects to keep learning
-- 📫 How to reach me linkedlIn
+- 📫 How to reach me linkedlIn or Twitter
 
 <!---
 AgustinCeballos37/AgustinCeballos37 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
