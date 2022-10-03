@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgustinCeballos37, a Self Learn apassionate
 - 👀 I’m interested in technology and science 
-- 🌱 I’m currently learning software developer, i have practice/proyects in javascript(frameworks), actually i was learn Java to applicate kotlin
+- 🌱 I’m currently learning software developer, i have practice/proyects in javascript(frameworks), learning C to continue with C++ the main idea is for game developt
 - 💞️ I’m looking to collaborate on some proyects to keep learning
 - 📫 How to reach me linkedlIn or Twitter
 
