@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AgustinCeballos37, a Self Learn apassionate
 - 👀 I’m interested in technology and science 
-- 🌱 I’m currently learning develop software
+- 🌱 I’m currently learning to be a Software Developer
 - 💞️ I’m looking to collaborate on some proyects to keep learning
 - 📫 How to reach me linkedlIn or Twitter
 
